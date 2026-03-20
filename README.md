@@ -26,8 +26,8 @@ Please add the following CSV files to the same folder:
 The directory should look like:
 
 - `start.py`  
-- `version2_hardcoded_ensemble.py`  
-- `version1_full_search.py`  
+- `t2.py`  
+- `t1.py`  
 - `Xtr.csv`  
 - `Xte.csv`  
 - `Ytr.csv`
